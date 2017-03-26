@@ -1,0 +1,27 @@
+#+REVEAL_ROOT: .
+* Slide 1 
+* Tasks 1k
+** DONE Start new org file for tutorial
+*** TODO testing this
+**** test
+* Testing 2 
+  1) Test 2
+  2) Test 3
+  3) Test 1
+     1. A
+     2. B
+     3. C
+* Testing 3
+  [[file:Ted_smoking.jpg]]
+* Tasks 2k
+** DONE Start new org file for tutorial
+*** testing this
+**** test
+     | Name   | score |
+     |--------+-------|
+     | Test 1 |    10 |
+     | Test 3 |    30 |
+     | Test 2 |    20 |
+     |--------+-------|
+     | Total  |    60 |
+
